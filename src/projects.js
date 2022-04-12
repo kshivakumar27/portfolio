@@ -65,7 +65,7 @@ function Projects() {
                                 <div className="project" style={{ backgroundImage: `url(${spid1})`}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a>Smart City</a></h3>
+                                            <h3><a>Cyber security project</a></h3>
                                             <span>Random password Generator<br/>Here i have done random project generating using python and javascript<br/></span>
                                             <h3 className="mt-2"><a>Tech used</a></h3>
                                             <span>Python<br/>Javascript</span>
@@ -82,10 +82,10 @@ function Projects() {
                                 <div className="project" style={{ backgroundImage: `url(${url})`}}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a>Smart City</a></h3>
-                                            <span>A Full Stack Website for Smart City (Django web app).<br/>Here i have done Django(python) full stack web app with postgresql.<br/></span>
+                                            <h3><a>Coming soon....</a></h3>
+                                            <span><br/><br/></span>
                                             <h3 className="mt-2"><a>Tech used</a></h3>
-                                            <span>Django<br/>Postgresql<br/>Pgadmin</span>
+                                            <span><br/><br/></span>
                                             <p className="icon">
                                                 <span><a href="" target="_blank">Website</a></span>
                                                 <span className="float-right"><a href="" target="_blank">View Code</a></span>
