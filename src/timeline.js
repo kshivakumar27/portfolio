@@ -22,9 +22,9 @@ function Timeline() {
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Full Stack Web development using Spring boot/Angular,Git And Have a Knowledge Azure Devops able build and run pipline for projects <span>2021-present</span></h2>
-                                                <h4>Full Stack Web development using  MERN,Javascript,Jquery,HTML,CSS,PHP,Bootstrap and knowledge of AWS Lambda <span>2021-present</span></h4>
+                                                <h4>Full Stack Web development using  ReactJs,Javascript,Jquery,HTML,CSS,PHP,Bootstrap and knowledge of AWS Lambda <span>2021-present</span></h4>
                                                
-                                                <h5>I recently have joined the LTTS as a SoftwareEngineer. My major part of the work has been into the field of creating sustainable and flexible Full Stack Websites using Angular as frontend and Springboot/Mysql as backend.and some basic knowledge of AWS and also some Basics of DS and Algorithms.</h5>
+                                                <h5>I am working at LTTS as a Software Engineer. My major part of the work has been into the field of creating sustainable and flexible Full Stack Websites using Angular as frontend and Springboot/Mysql as backend.and some basic knowledge of AWS and also some Basics of DS and Algorithms.</h5>
                                             </div>
                                         </div>
                                     </article>

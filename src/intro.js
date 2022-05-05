@@ -55,6 +55,35 @@ function Introduction(){
                   </div>
                 </div>
               </li>
+
+
+
+              <li style={{backgroundImage: `url(${bg1})`}}>
+                <div className="overlay" />
+                <div className="container-fluid">
+                  <div className="row">
+                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                      <div className="slider-text-inner">
+                        <div className="desc">
+                          <h1 className="text-light">FLY HIGH</h1><h2 className="text-light">I have plan to build Own Company and its Official Website( comming soon with more Innovative Idea's and Plan) <br /> <span className="text-light" >YASHIV.IO</span></h2>
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/kshivakumar27" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+
+
+
+
+
+
+
+
+
+
             </ul>
           </div>
         </section>
