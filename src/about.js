@@ -14,7 +14,7 @@ function About(){
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <h4>I am a computer grad student from ATME college of engg-Mysuru with CSE as my major.</h4>
+                    <h4>I am a Information Science & Computer Science graduated student from Mysuru with CSE as my major.</h4>
                    <h4>I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years </h4>
                     </div>
                 </div>
@@ -39,7 +39,7 @@ function About(){
                 </span>
                 <div className="desc">
                     <h3>Full Stack Web Development </h3>
-                    <p>I have experience building websites using JavaScript,Spring boot,ReactJS,Angular,Jquery,NodeJS,HTML,CSS,PHP,Boostrap</p>
+                    <h6>I have experience in Java-Spring boot,ReactJS,Angular,Jquery,NodeJS,HTML,CSS,PHP,Boostrap and Selenium for python, Azure devops</h6>
                 </div>
                 </div>
             </div>
